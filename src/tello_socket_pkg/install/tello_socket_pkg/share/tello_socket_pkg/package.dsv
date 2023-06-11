@@ -1,0 +1,9 @@
+source;share/tello_socket_pkg/hook/pythonpath.ps1
+source;share/tello_socket_pkg/hook/pythonpath.dsv
+source;share/tello_socket_pkg/hook/pythonpath.sh
+source;share/tello_socket_pkg/hook/ament_prefix_path.ps1
+source;share/tello_socket_pkg/hook/ament_prefix_path.dsv
+source;share/tello_socket_pkg/hook/ament_prefix_path.sh
+source;../../build/tello_socket_pkg/share/tello_socket_pkg/hook/pythonpath_develop.ps1
+source;../../build/tello_socket_pkg/share/tello_socket_pkg/hook/pythonpath_develop.dsv
+source;../../build/tello_socket_pkg/share/tello_socket_pkg/hook/pythonpath_develop.sh
